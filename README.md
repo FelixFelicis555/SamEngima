@@ -7,7 +7,6 @@
 Sampark or connect one on one with ease. It is a simplified online meeting platform where you can chat before, during and after the call. Its user interface is simple and straightforward to use which makes it beginner friendly. Just type in your name and create chat rooms at an instant. Join calls from there, start conversations! Make your conversations productive. You can jot down notes during conversations, collaborate together on the virtual whiteboard and also download it for later reference. <br><br>
 
 > See Hosted Version [Here](https://sampark-video-calls.netlify.app/)<br>
-> Take a look at the presentation [Here](https://www.canva.com/design/DAEkBDeh9ps/nI2OSsKX7kFj7FgMcZ1HuA/view?utm_content=DAEkBDeh9ps&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
 ## Demo Video:
